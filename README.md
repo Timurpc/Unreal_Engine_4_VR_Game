@@ -1,7 +1,8 @@
 VR educational game about old Korean weapon namely Hwacha using Unreal Engine 4.22
 
-All information will be added soon...
+All information will not be added because of the Company Policy. 
 
+If you have any question contact me, I will reply as soon as possible.
 Contact: timur2322727@gmail.com
 
 ## Project name:
