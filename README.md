@@ -11,6 +11,8 @@ Contact: timur2322727@gmail.com
 ### Project goal:
 Developing Hwacha informative Game using Unreal Engine 4 (UE4) for VR game model. And teach people how to use Hwacha and spread Korean historical weapon all around the world.
 
+<img src="Photos/Hwacha.png" data-rotate="90">
+
 ### Main tasks of the project:
 Landscape - Materials and Foliage tool / Terrain  
 Creating levels with Steam Load Level system.
@@ -44,4 +46,6 @@ Oculus Go, Oculus Rifts-S, LeapMotion, Gear VR, Samsung Odyssey, Android mobile 
 We participated in "2019 International Conference" (for A.I. Challange to future finance) with this project (Hwacha).
 Location: Ehwa University, Seoul, South Korea.
 
+<img src="Photos/Ehwa%20University%20Conference.png" width="500">
 
+<img src="Photos/DSC_0088.JPG" width="300" >
