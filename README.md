@@ -42,10 +42,42 @@ Effects and particles. I tried to use VFX (Visual Effects) to show fire and fire
 ### This game can be played by(platform and devices):
 Oculus Go, Oculus Rifts-S, LeapMotion, Gear VR, Samsung Odyssey, Android mobile phones with at least Android 7 or higher, and also IOS users can play because in the input section all inputs and packaging settings are have been fixed for these platforms.
 
-### Participated in "2019 International Conference"
+# Participated in "2019 International Conference"
 We participated in "2019 International Conference" (for A.I. Challange to future finance) with this project (Hwacha).
 Location: Ehwa University, Seoul, South Korea.
 
 <img src="Photos/Ehwa%20University%20Conference.png" width="500">
 
 <img src="Photos/DSC_0088.JPG" width="300" >
+
+# Our second conference: COEX E-Learning exhibition. 
+
+**E-Learning Korea 2019:** Edutech Fair
+
+**Date:** 5 (THR) - 7 (SAT) Sep, 2019
+
+**Venue:** Hall C, COEX, SEOUL & Conference Room
+
+**Hosted by:** Ministry of Education, Ministry of Trade, Industry and Energy,
+Minstry of Science and ICT(MSIT),Seoul Metropolitan Office of Education
+
+**Organized by:** Korea Education & Research Information Service[KERIS],
+National IT Industry Promotion Agency[NIPA], Korea Edutech Industry Association[KETIA]
+
+**Sponsored by:** Metropolitan and Provincial Offices of Educcation, National
+Institute of for Lifelong Education[NILE], Korea Council for
+Online University[KCOU], Educational Boradcationg System[EBS]
+
+### Exhibit Products:
+
+**VR Realistic Education**	VR, AR, MR, 3D/4D, Technical Training, Virtual Training System
+Industry & Simulation Contents and Equipment
+
+**SW Creative Fusion**	SW, Coding, Maker Edu, Arduino, 3D Printer, Educational Robot, AI, Big Data, Functional game(for Language learning, 3D/4D Cubic, Online/Mobile/Social/Contents), Talent Education Program, Educational Application
+
+**AI Language	Personalized** English/Chinese/Japanese Contents & Test, Certificate, On-the-job Education
+
+**High-Tech Classroom**	Digital Textbook, Electronic Publishing, Computerized Equipment, Administrative Support, Lecture Production, Evaluation Test, Authoring Tools, Educatiomal ICT Solution, Data Storage Sloution, Remote/Video Conference Communication System, Radio-wire Network,Ubiquitous Solution, LBS,LCMS,CMSS Solution, Electronit Bulletin Board, Projector, Tablet PC, RFID, Control Device for Learners, Classroom Equipment, Practice & video Equipment, Educational IT/Digital Informational Technology
+
+**Distant College & Lifetime Education**	Distant Collegem Academic Credit Bank,
+Training for Unemployed, Vocational Rraining, Certificate
