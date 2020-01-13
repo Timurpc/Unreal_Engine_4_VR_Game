@@ -39,3 +39,9 @@ Effects and particles. I tried to use VFX (Visual Effects) to show fire and fire
 
 ### This game can be played by(platform and devices):
 Oculus Go, Oculus Rifts-S, LeapMotion, Gear VR, Samsung Odyssey, Android mobile phones with at least Android 7 or higher, and also IOS users can play because in the input section all inputs and packaging settings are have been fixed for these platforms.
+
+### Participated in "2019 International Conference"
+We participated in "2019 International Conference" (for A.I. Challange to future finance) with this project (Hwacha).
+Location: Ehwa University, Seoul, South Korea.
+
+
